@@ -1,4 +1,4 @@
-[![Codewars](https://www.codewars.com/users/s-palagin/badges/small)]
+![Codewars](https://www.codewars.com/users/s-palagin/badges/small)
 
 <!--
 **s-palagin/s-palagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
